@@ -1,5 +1,5 @@
 # Systems-Programming-Activities
 
-Systems Programming Activities Practice
+Systems Programming In-Class Activities
 Using Unix to compile multiple source codes with a Makefile. 
 
